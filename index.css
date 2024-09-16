@@ -41,3 +41,7 @@ button {
 div {
     max-width: contain;
 }
+
+#count-el {
+    color: black;
+}
